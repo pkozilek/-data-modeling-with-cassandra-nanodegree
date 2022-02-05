@@ -1,6 +1,6 @@
 # Data-modeling-with-cassandra-nanodegree
 
-This repo contains all files for the second projecto of "Data Engineering Nanodegree" course from Udacity. See the project description below.
+This repo contains all files for the second project of "Data Engineering Nanodegree" course from Udacity. See the project description below.
 
 ## Project: Data Modeling with Cassandra
 
